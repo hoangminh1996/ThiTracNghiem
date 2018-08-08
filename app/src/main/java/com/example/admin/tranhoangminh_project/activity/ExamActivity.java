@@ -26,6 +26,6 @@ public class ExamActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         Intent getIntent = getIntent();
-        rawName = getIntent.getStringExtra(Home)
+        rawName = getIntent.getStringExtra(Home);
     }
 }
